@@ -13,3 +13,7 @@ that I have completed as part of my learning journey.
 - 🐍 **Python Developer – Sololearn**  
   Completed foundational course, continuing practice and learning  
   https://www.sololearn.com/certificates/CC-TNLGQL1Y
+
+- 🐍 **Python Inermediate – Sololearn**  
+  Completed foundational course, continuing practice and learning
+  https://www.sololearn.com/certificates/CC-T9VICSNT
